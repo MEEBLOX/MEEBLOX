@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ian!
+- 👀 I’m interested in developing ofcourse.
+- 🌱 I’m currently learning Python!
+- 💞️ I’m looking to collaborate on nothing!
+- 📫 How to reach me: Join my discord server (Can be found in my organization!)
