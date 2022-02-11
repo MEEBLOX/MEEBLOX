@@ -1,7 +1,7 @@
 # About Domu LLC
 Hello, we are a company hoping to help out small developers, Or just developers in general!
-> Please note that we do not do complicated code!!
-We don't do compilcated code because it will take long, and other customers will be mad!
+> Please note that we do not do complicated code!!<br>
+We don't do compilcated code because it will take long, and other customers will be mad!<br>
 And also because we dont have alot of people here at Domu LLC!
 ## Who are we?
 We're a group of known friends in real life.
